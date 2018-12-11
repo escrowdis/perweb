@@ -46,6 +46,18 @@ a.active {
     color: #{{ site.data.template.color.secondary }};
 }
 
+p.h4 a {
+    color: white;
+    text-decoration: underline;
+}
+
+p.h4 a:hover,
+p.h4 a:focus,
+p.h4 a:active,
+p.h4 a.active {
+    color: #{{ site.data.template.color.secondary }};
+}
+
 h1,
 h2,
 h3,
@@ -126,6 +138,7 @@ fieldset[disabled] .btn-primary.active {
     font-family: {{ site.data.template.font.primary }};
     font-size: 18px;
     font-weight: 700;
+    width: 250px;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
 }
@@ -169,6 +182,11 @@ fieldset[disabled] .btn-xl.active {
     color: #{{ site.data.template.color.primary }};
     background-color: #fff;
 }
+
+/* .btn-xl:active,
+.btn-xl.active {
+    background-color: #F58F00;
+} */
 
 .navbar-default {
     border-color: transparent;
@@ -267,9 +285,9 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #{{ site.data.template.color.common }};
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/spacex_c.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -657,8 +675,8 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    /* background-color: #222; */
+    background-image: url('{{ site.baseurl }}/img/nasa_c.png');
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -778,35 +796,38 @@ ul.social-buttons li a:active {
     min-height: 100%;
     border: 0;
     border-radius: 0;
-    text-align: center;
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;
+    font-family: {{ site.data.template.font.primary }};
+    text-align: justify;
 }
 
 .portfolio-modal .modal-content h2 {
     margin-bottom: 15px;
     font-size: 3em;
+    text-align: center;
 }
 
-.portfolio-modal .modal-content p {
-    margin-bottom: 30px;
-}
-
-.portfolio-modal .modal-content p.item-intro {
-    margin: 20px 0 30px;
-    font-family: {{ site.data.template.font.secondary }};
-    font-size: 16px;
-    font-style: italic;
+.portfolio-modal .modal-content p,
+.portfolio-modal .modal-content li {
+    margin-bottom: 10px;
+    font-size: 20px;
+    line-height: 1.75;
 }
 
 .portfolio-modal .modal-content ul.list-inline {
-    margin-top: 0;
-    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .portfolio-modal .modal-content img {
+    display: block;
+    margin-top: 20px;
     margin-bottom: 30px;
+    margin: auto;
+    color: red;
+    font-weight: 700;
 }
 
 .portfolio-modal .close-modal {
@@ -864,4 +885,68 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
+}
+
+.resume-title {
+    color: #172958;
+    font-weight: 700;
+}
+
+#about a {
+    color: black;
+    text-decoration: underline;
+}
+
+#about a:hover,
+#about a:focus,
+#about a:active,
+#about a.active {
+    color: #{{ site.data.template.color.secondary }};
+}
+
+div#links a {
+    float: left;
+    width: 23%;
+    padding: 5px 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    color: #eee;
+    transition: box-shadow .5s ease;
+    font-weight: 700;
+    font-family: {{ site.data.template.font.primary }};
+}
+
+div#links a:hover {
+    box-shadow: 3px 3px 10px #fff;
+}
+
+div#links a#resume-link {
+    background-color: #05060B;
+}
+
+div#links a#linkedin-link {
+    background-color: #0077B5;
+}
+
+div#links a#google-link {
+    background-color: #fd2c27;
+}
+
+div#links a#facebook-link {
+    background-color: #4267B2;
+}
+
+div#links a#scholar-link {
+    background-color: #3983FE;
+}
+
+div#links a#github-link {
+    background-color: #24292E;
+}
+
+.row-my {
+    margin-top: 15px;
+    margin-bottom: 15px;
 }

@@ -1,0 +1,32 @@
+---
+title: The 2014 MediaTek MobileHeroes Competition
+subtitle: 
+layout: default
+modal-id: 7
+date: 2018-12-10
+thumbnail: 14mediatek/2014mediatek.jpg
+project-date: July - Dec. 2014
+keyword: Wireless communication, IR sensor, Shooter game
+---
+<!-- The Excellence Award -->
+<!-- Arduino, Infrared transmitter and receiver, Conductive plate -->
+Three congenial friends and I formed a team to join the 2014 MediaTek MobileHeroes Competition and won **the Excellence Award**. We came up with an idea about building a shooter game without extra devices, such as mask, vest, and so on. We decided to distill all the actions into a glove including shoot, reload, defense. The glove is composed of a LinkIt ONE development board, an Infrared (IR) sensor, a display screen, and a conductive plate. LinkIt ONE is the brain to process all the signals from the sensor. The IR sensor is aimed at trasmitting and receiving the signals from every glove. The display screen is applied to show health points, the ammo, and the game status. And the conductive plate is designed to trigger the action. Although it's a tiny project, but we did enjoy the brainstorming as well as the hands-on experience together during the process of turning a concept into a prototype.
+
+![Glove]({{ site.url }}/img/portfolio/14mediatek/2014mediatek1.jpg)
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/rcPLKO-TGfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/BdB5Pf8opsg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+Gesture
+
+| Status (1<sup>st</sup> Gen) | Shoot (2<sup>nd</sup>) | Defense (2<sup>nd</sup>) |
+|:------:|:-----:|:-------:|
+| ![Glove status]({{ site.url }}/img/portfolio/14mediatek/status.jpg) | ![Glove shoot]({{ site.url }}/img/portfolio/14mediatek/shoot.jpg) | ![Glove defense]({{ site.url }}/img/portfolio/14mediatek/defense.jpg) |
+
+<br>
+
+![Crew]({{ site.url }}/img/portfolio/14mediatek/crew.jpg "Crew")
+
