@@ -1,6 +1,6 @@
 ---
-title: Mechanism
-subtitle: 
+title: Mechanism Project
+subtitle: Draw Something Real
 layout: default
 modal-id: 1
 date: 2018-12-11

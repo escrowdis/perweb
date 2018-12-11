@@ -1,6 +1,6 @@
 ---
 title: The 2014 MediaTek MobileHeroes Competition
-subtitle: 
+subtitle: Gesture-oriented shooter game
 layout: default
 modal-id: 7
 date: 2018-12-10
