@@ -3,7 +3,7 @@ title: "Bachelor Topic: Quantitative Evaluation of the Floral Shape Variation in
 subtitle: Floral Shape Variation Study
 layout: default
 modal-id: 4
-date: 2018-12-11
+date: 2013-06-21
 thumbnail: bachelor_topic/005-02_feature.JPG
 project-date: Aug. 2012 - Feb. 2014
 keyword: Computer vision, Segmentation, Principal component analysis, Geometric morphometrics, General Procrustes analysis.

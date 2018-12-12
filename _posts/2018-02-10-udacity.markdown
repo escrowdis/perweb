@@ -1,0 +1,20 @@
+---
+title: Udacity Self-Driving Car Engineer Nanodegree
+subtitle: 
+layout: default
+modal-id: 11
+date: 2018-02-10
+thumbnail: udacity/vehicle_detection.jpeg
+project-date: Nov. 2017 - Mar. 2018
+keyword: 
+---
+<!-- https://www.youtube.com/playlist?list=PL9QKeEcRIsAsjK3snWaBGHmdr8wHJIGIW&disable_polymer=true -->
+
+Udacity is an organization found by Sebastian Thrun. I enrolled the <a href="https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013" target="_blank">Self-Driving Car Engineer Nanodegree</a> to acquire knowledge in autonomous vehicle. It consists of lots of assginments that I've uploaded to my <a href="https://github.com/escrowdis" target="_blank">GitHub</a>.
+
+**Assignments:**
+- <a href="https://github.com/escrowdis/CarND-LaneLines-P1" target="_blank">Lane line detection</a>
+- <a href="https://github.com/escrowdis/CarND-Vehicle-Detection" target="_blank">Vehicle detection</a>
+- <a href="https://github.com/escrowdis/CarND-Advanced-Lane-Lines" target="_blank">Advanced lane line detection</a>
+- <a href="https://github.com/escrowdis/CarND-Traffic-Sign-Classifier-Project" target="_blank">Traffic sign classification</a>
+- <a href="https://github.com/escrowdis/CarND-Behavioral-Cloning-P3" target="_blank">Driving behavior cloning</a>

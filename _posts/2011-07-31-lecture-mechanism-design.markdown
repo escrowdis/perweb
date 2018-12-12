@@ -3,9 +3,9 @@ title: Mechanism Project
 subtitle: Draw Something Real
 layout: default
 modal-id: 1
-date: 2018-12-11
+date: 2011-07-31
 thumbnail: lecture_mechanism/mechanism.png
-project-date: Feb. 1 - July 31 2011
+project-date: Feb. - June 2011
 keyword: 
 ---
 <!-- BME 2111 Mechanism (Ⅰ) -->

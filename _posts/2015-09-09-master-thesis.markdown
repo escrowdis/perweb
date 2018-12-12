@@ -2,8 +2,8 @@
 title: "Master Thesis: Sensor Fusion of Stereo Vision and Radar Systems for Vehicle Safety Application"
 subtitle: The Development of Automatic Emergency Braking System
 layout: default
-modal-id: 8
-date: 2018-12-09
+modal-id: 10
+date: 2015-09-09
 thumbnail: master_thesis/fusion.png
 project-date: Apr 2013 - Sep. 2015
 keyword: Sensor fusion, Object detection, Object tracking, Object Recognition, Path planning, Decision-making, GUI design.

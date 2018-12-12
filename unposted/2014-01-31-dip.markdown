@@ -1,0 +1,13 @@
+---
+title: Principles and Applications of Digital Image Processing
+subtitle: 
+layout: default
+modal-id: 6
+date: 2014-01-31
+thumbnail: 
+project-date: Aug. 2013 - Jan. 2014
+keyword: 
+---
+<!-- BME 7408 Principles and Applications of Digital Image Processing -->
+
+<!-- TBD -->
