@@ -4,7 +4,7 @@ subtitle: Draw Something Real
 layout: default
 modal-id: 1
 date: 2011-07-31
-thumbnail: lecture_mechanism/mechanism.png
+thumbnail: lecture_mechanism/mechanism.jpg
 project-date: Feb. - June 2011
 keyword: 
 ---
@@ -13,11 +13,11 @@ The lecture Mechanism let us to create innovation thing based on unresolved prob
 
 **Belt**
 
-| ![]({{ site.url }}/img/portfolio/lecture_mechanism/belt.png) | ![]({{ site.url }}/img/portfolio/lecture_mechanism/belt-1.png) <br> ![]({{ site.url }}/img/portfolio/lecture_mechanism/belt-2.png) |
+| ![]({{ site.url }}/img/portfolio/lecture_mechanism/belt.jpg) | ![]({{ site.url }}/img/portfolio/lecture_mechanism/belt-1.jpg) <br> ![]({{ site.url }}/img/portfolio/lecture_mechanism/belt-2.jpg) |
 
 **Hanger**
 
-| ![]({{ site.url }}/img/portfolio/lecture_mechanism/hanger.png) | ![]({{ site.url }}/img/portfolio/lecture_mechanism/hanger-expand.png) |
+| ![]({{ site.url }}/img/portfolio/lecture_mechanism/hanger.jpg) | ![]({{ site.url }}/img/portfolio/lecture_mechanism/hanger-expand.jpg) |
 
 <div class="youtube" data-embed="2oUGgS5F6Bw">
     <div class="play-button"></div> 
