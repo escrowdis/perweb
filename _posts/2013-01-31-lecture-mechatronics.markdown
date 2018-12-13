@@ -20,4 +20,6 @@ In the lecture Mechatronics and Laboratory, we've learned the theories and funct
 
 ---
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/y5p__i66iR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="youtube" data-embed="y5p__i66iR0">
+    <div class="play-button"></div> 
+</div>

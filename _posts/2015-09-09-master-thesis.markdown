@@ -46,9 +46,26 @@ The system was ameliorated to approach a better performance (see videos below). 
 - Analyzed path **planning​​ algorithms** to provide more realistic solution
 - Designed clear and concise GUI for user easy to understand environmental information
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/Kg3AjFOHUyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/Kg3AjFOHUyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/r_ZSEXA5Sok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/EpQ572MjafM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/L4HTqM5YG6w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="800" height="450" src="https://www.youtube.com/embed/IKS9RFLg2hU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="youtube" data-embed="J4dLS4-Mt_Y">
+    <div class="play-button"></div> 
+</div>
+
+<div class="youtube" data-embed="Kg3AjFOHUyA">
+    <div class="play-button"></div> 
+</div>
+
+<div class="youtube" data-embed="r_ZSEXA5Sok">
+    <div class="play-button"></div> 
+</div>
+
+<div class="youtube" data-embed="EpQ572MjafM">
+    <div class="play-button"></div> 
+</div>
+
+<div class="youtube" data-embed="L4HTqM5YG6w">
+    <div class="play-button"></div> 
+</div>
+
+<div class="youtube" data-embed="IKS9RFLg2hU">
+    <div class="play-button"></div> 
+</div>

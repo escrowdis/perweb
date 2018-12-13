@@ -14,9 +14,13 @@ Three congenial friends and I formed a team to join the 2014 <a href="https://ww
 
 ![Glove]({{ site.url }}/img/portfolio/14mediatek/2014mediatek1.jpg)
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/rcPLKO-TGfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="youtube" data-embed="rcPLKO-TGfQ">
+    <div class="play-button"></div> 
+</div>
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/BdB5Pf8opsg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="youtube" data-embed="BdB5Pf8opsg">
+    <div class="play-button"></div> 
+</div>
 
 <br>
 
