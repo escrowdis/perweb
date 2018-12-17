@@ -907,9 +907,9 @@ body {
 
 div#links a {
     float: left;
-    width: 23%;
+    width: 100%;
     padding: 5px 10px;
-    margin-right: 10px;
+    margin: 0px 10px 10px 0px;
     border-radius: 5px;
     text-align: center;
     text-decoration: none;
@@ -924,7 +924,7 @@ div#links a:hover {
 }
 
 div#links a#resume-link {
-    background-color: #05060B;
+    background-color: #E79D07;
 }
 
 div#links a#linkedin-link {
