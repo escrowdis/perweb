@@ -792,6 +792,11 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
+.portfolio-modal .modal-dialog {
+    width: 85%;
+    margin: 0 auto;
+}
+
 .portfolio-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
@@ -806,7 +811,6 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content h2 {
     margin-bottom: 15px;
-    font-size: 3em;
     text-align: center;
 }
 
@@ -822,13 +826,20 @@ ul.social-buttons li a:active {
     margin-bottom: 20px;
 }
 
+.portfolio-modal .modal-content table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
 .portfolio-modal .modal-content img {
     display: block;
-    margin-top: 20px;
-    margin-bottom: 30px;
-    margin: auto;
+    margin: 20px auto 30px auto;
     color: red;
     font-weight: 700;
+    padding-bottom: 15px;
+    max-width: 100%;
+    height: auto;
 }
 
 .portfolio-modal .close-modal {
