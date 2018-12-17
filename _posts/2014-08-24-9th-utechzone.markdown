@@ -6,7 +6,7 @@ modal-id: 8
 date: 2014-08-24
 thumbnail: 9th_utechzone/result.jpg
 project-date: Feb. - Aug. 2014
-keyword: Motion detection, Image segmentation
+keyword: Motion detection, Image segmentation, Image processing.
 ---
 <!-- Sample Consesus Method (Wang and Suter, 2006) -->
 

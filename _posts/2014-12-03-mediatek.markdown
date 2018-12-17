@@ -6,7 +6,7 @@ modal-id: 9
 date: 2014-12-03
 thumbnail: 14mediatek/2014mediatek.jpg
 project-date: July - Dec. 2014
-keyword: Wireless communication, IR sensor, Shooter game
+keyword: Wireless communication, IR sensor, Shooter game.
 ---
 <!-- The Excellence Award -->
 <!-- Arduino, Infrared transmitter and receiver, Conductive plate -->

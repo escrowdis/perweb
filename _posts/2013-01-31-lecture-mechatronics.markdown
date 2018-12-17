@@ -6,7 +6,7 @@ modal-id: 3
 date: 2013-01-31
 thumbnail: lecture_mechatronics/mechatronics-1.jpg
 project-date: Aug. 2012 - Jan. 2013
-keyword: 
+keyword: PLC, Automatic system, Integration.
 ---
 <!-- BME 4101 Mechatronics and Laboratory -->
 

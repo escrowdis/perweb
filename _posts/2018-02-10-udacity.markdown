@@ -6,7 +6,7 @@ modal-id: 11
 date: 2018-02-10
 thumbnail: udacity/vehicle_detection.jpeg
 project-date: Nov. 2017 - Mar. 2018
-keyword: 
+keyword: Image processing, Deep learning, Decision making.
 ---
 <!-- https://www.youtube.com/playlist?list=PL9QKeEcRIsAsjK3snWaBGHmdr8wHJIGIW&disable_polymer=true -->
 

@@ -6,7 +6,7 @@ modal-id: 5
 date: 2013-08-03
 thumbnail: 8th_utechzone/face_recognition.jpg
 project-date: Dec. 2013 - Aug. 2014
-keyword: Face recognition
+keyword: Face recognition, Feature extraction, Classification, Machine learning.
 ---
 
 <a href="http://www.utechzone.com.tw/" target="_blank">Utechzone Co.,LTD</a> is a well-known technical company aimed at machine vision technology and dedicated to the development of automated machine vision systems in Taiwan. The Utechone Machine Vision Prize has been held by the company since 2006 in order to encourage the development of computer vision. Our lab, the <a href="http://ttlin.bime.ntu.edu.tw/ttlin/" target="_blank">Biophotonics and Bioimaging Laboratory</a>, has participated in this contest since 2006, and has won first prize two times. In my first graduate year, I was involved in the 8<sup>th</sup> competition to study and implement new feature, and help tune or adjust the models to achieve better performance.
