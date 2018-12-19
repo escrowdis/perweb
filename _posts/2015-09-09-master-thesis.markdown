@@ -30,7 +30,7 @@ In order to eliminate measurement error resulting from the stereo vision, the ob
 
 | ![Delphi ESR]({{ site.url }}/img/portfolio/master_thesis/esr_c.jpg "Delphi ESR v9.21.21") | ![Control box]({{ site.url }}/img/portfolio/master_thesis/control_box.jpg "CANBus Control Box") | ![Control box 1]({{ site.url }}/img/portfolio/master_thesis/control_box-1.jpg "CANBus Control Box 1") |
 
-The system was ameliorated to approach a better performance (see videos below). For more detail, please access to **<a href="file/MasterThesis-final.pdf" target="_blank">my master thesis pdf</a>**.
+The system was ameliorated to approach a better performance (see videos below). For more detail, please access to **<a href="file/MasterThesis-final.pdf" target="_blank" onclick="ga('send', 'pageview', 'file/MasterThesis-final.pdf');">my master thesis pdf</a>**.
 
 ![Cart]({{ site.url }}/img/portfolio/master_thesis/cart.jpg "Cart")
 

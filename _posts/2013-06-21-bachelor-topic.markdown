@@ -27,7 +27,7 @@ translation, orientation, and scaling, from the landmark dataset. Principal comp
 | Face view | ![PCA PC1 Front]({{ site.url }}/img/portfolio/bachelor_topic/pc1_front.jpg) | ![PCA PC1 Front]({{ site.url }}/img/portfolio/bachelor_topic/pc1_front_-2std.jpg) | ![PCA PC1 Front]({{ site.url }}/img/portfolio/bachelor_topic/pc1_front_mean.jpg) | ![PCA PC1 Front]({{ site.url }}/img/portfolio/bachelor_topic/pc1_front_+2std.jpg) |
 | Side view | ![PCA PC1 Side]({{ site.url }}/img/portfolio/bachelor_topic/pc1_side.jpg) | ![PCA PC1 Side]({{ site.url }}/img/portfolio/bachelor_topic/pc1_side_-2std.jpg) | ![PCA PC1 Side]({{ site.url }}/img/portfolio/bachelor_topic/pc1_side_mean.jpg) | ![PCA PC1 Side]({{ site.url }}/img/portfolio/bachelor_topic/pc1_side_+2std.jpg) |
 
-The indicative parameters were observed to represent the floral shape. In the face view, the PC1 is corresponded to the degree of overlap between flower lobes. In the side view, the PC1 is corresponded to the dorsi-ventral asymmetry. For more detail, please access to **<a href="file/學士專題_完稿V2-converted.pdf" target="_blank">my bachelor topic pdf</a>**.
+The indicative parameters were observed to represent the floral shape. In the face view, the PC1 is corresponded to the degree of overlap between flower lobes. In the side view, the PC1 is corresponded to the dorsi-ventral asymmetry. For more detail, please access to **<a href="file/學士專題_完稿V2-converted.pdf" target="_blank" onclick="ga('send', 'pageview', 'file/學士專題_完稿V2-converted.pdf');">my bachelor topic pdf</a>**.
 
 **Contributions:**
 - Analyzed shape variation of _Sinningia speciosa_ from landmarks identified on 2D images

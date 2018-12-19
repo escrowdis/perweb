@@ -10,7 +10,7 @@
                     <!-- clipboard.js -->
                     <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
                     <button id="copy_email" type="submit" class="btn btn-xl" data-clipboard-text="{{ site.email }}" 
-                    onclick="copyToClipboard('#email')">Click to copy</button>
+                    onclick="ga('send', 'event', 'copy', 'click', 'email_addr_copy'); copyToClipboard('#email');">Click to copy</button>
                     <script>
                         var clipboard = new ClipboardJS('.btn');
                         clipboard.on('success', function(e) {
