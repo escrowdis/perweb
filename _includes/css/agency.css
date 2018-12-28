@@ -287,7 +287,7 @@ header {
     text-align: center;
     color: #{{ site.data.template.color.common }};
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/spacex_c.jpg');
+    background-color: #0B1926;
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
