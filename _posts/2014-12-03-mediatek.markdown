@@ -12,7 +12,7 @@ keyword: Wireless communication, IR sensor, Shooter game.
 <!-- Arduino, Infrared transmitter and receiver, Conductive plate -->
 Three congenial friends and I formed a team to join the 2014 <a href="https://www.mobilehero.com/competitions/mediatek.html" target="_blank">MediaTek MobileHeroes Competition</a> and won **the Excellence Award**. We came up with an idea about building a shooter game without extra devices, such as mask, vest, and so on. We decided to distill all the actions into a glove including shoot, reload, defense. The glove is composed of a LinkIt ONE development board, an Infrared (IR) sensor, a display screen, and a conductive plate. LinkIt ONE is the brain to process all the signals from the sensor. The IR sensor is aimed at trasmitting and receiving the signals from every glove. The display screen is applied to show health points, the ammo, and the game status. And the conductive plate is designed to trigger the action. Although it's a tiny project, but we did enjoy the brainstorming as well as the hands-on experience together during the process of turning a concept into a prototype.
 
-![Glove]({{ site.url }}/img/portfolio/14mediatek/2014mediatek1.jpg)
+<img class="lazy_load" title="Glove" alt="Glove" data-src="{{ site.url }}/img/portfolio/14mediatek/2014mediatek1.jpg">
 
 <div class="youtube" data-embed="rcPLKO-TGfQ">
     <div class="play-button"></div> 
@@ -26,14 +26,14 @@ Three congenial friends and I formed a team to join the 2014 <a href="https://ww
 
 Gesture
 
-| ![Glove status]({{ site.url }}/img/portfolio/14mediatek/status.jpg) | ![Glove shoot]({{ site.url }}/img/portfolio/14mediatek/shoot.jpg) | ![Glove defense]({{ site.url }}/img/portfolio/14mediatek/defense.jpg) |
+| <img class="lazy_load" title="Glove status" alt="Glove status" data-src="{{ site.url }}/img/portfolio/14mediatek/status.jpg"> | <img class="lazy_load" title="Glove shoot" alt="Glove shoot" data-src="{{ site.url }}/img/portfolio/14mediatek/shoot.jpg"> | <img class="lazy_load" title="Glove defense" alt="Glove defense" data-src="{{ site.url }}/img/portfolio/14mediatek/defense.jpg"> |
 |:------:|:-----:|:-------:|
 | **Status (1<sup>st</sup> Gen)** | **Shoot (2<sup>nd</sup>)** | **Defense (2<sup>nd</sup>)** |
 
 <br>
 
-![Crew]({{ site.url }}/img/portfolio/14mediatek/crew.jpg "Crew")
+<img class="lazy_load" title="Crew" alt="Crew" data-src="{{ site.url }}/img/portfolio/14mediatek/crew.jpg">
 
 <br>
 
-![Certificate]({{ site.url }}/img/portfolio/14mediatek/14MediaTek.JPG)
+<img class="lazy_load" title="Certificate" alt="Certificate" data-src="{{ site.url }}/img/portfolio/14mediatek/14MediaTek.jpg">

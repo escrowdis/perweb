@@ -13,26 +13,26 @@ keyword: Sensor fusion, Object detection, Object tracking, Object Recognition, P
 
 At first, a stereo vision kit was self-made which's easy to adjust the focal length of camera and baseline for experimental use.
 
-![Stereo vision kit]({{ site.url }}/img/portfolio/master_thesis/stereo_vision_rig_c.jpg "Stereo Vision Kit")
+<img class="lazy_load" title="Stereo Vision Kit" alt="Stereo Vision Kit" data-src="{{ site.url }}/img/portfolio/master_thesis/stereo_vision_rig_c.jpg">
 
 After an off-line camera calibration revised from <a href="https://docs.opencv.org/3.0-beta/doc/tutorials/calib3d/camera_calibration/camera_calibration.html" target="_blank">OpenCV library</a> (Lai, 2012), the Semi-Global Block Matching (SGBM) algorithm (Hirschmüller, 2008) was applied for correspondence matching on GPU to accelerate the process performance. The 3D information estimated by stereo matching was projected on an bird's-eye-view. The objects were then detected using the blob method on the top-view and then reprojected back to label them on the image. 
 
-![Fusion]({{ site.url }}/img/portfolio/master_thesis/fusion-1.jpg "GUI")
+<img class="lazy_load" title="GUI" alt="GUI" data-src="{{ site.url }}/img/portfolio/master_thesis/fusion-1.jpg">
 
 The ground surface was removed using the v-disparity method (Labayrade _et al._, 2005) that is a histogram of the various value of disparity on each row. The ground was filtered out which appeared as a slash on the v-disparity map.
 
-![V-disparity]({{ site.url }}/img/portfolio/master_thesis/v-disparity_c.jpg "V-Disparity")
-![Ground surface removal]({{ site.url }}/img/portfolio/master_thesis/surface_removal_c.jpg "Ground Surface Removal")
+<img class="lazy_load" title="V-disparity" alt="V-disparity" data-src="{{ site.url }}/img/portfolio/master_thesis/v-disparity_c.jpg">
+<img class="lazy_load" title="Ground surface removal" alt="Ground surface removal" data-src="{{ site.url }}/img/portfolio/master_thesis/surface_removal_c.jpg">
 
 After object detection, the Bhattacharyya distance was used to distinguish different objects from the hue color-space. Extended Kalman filter (Kalman, 1960) was then applied to track their trajectory. Pre-collision warning method was approached by path planning algorithms and the GUI to guide the driver. The path planning algorithms were implemented and analyzed to propose a more real one, such as A* and Vector Field Histogram algorithms.
 
 In order to eliminate measurement error resulting from the stereo vision, the object-level sensor fusion method (Wu _et al._, 2009) was proposed to ameliorate the accuracy of obstacle motion state estimation by mounting a millimeter-wave radar, <a href="https://autonomoustuff.com/product/delphi-esr-9-21-21/" target="_blank">Delphi ESR v9.21.21</a>. Although the radar is lack of color information, it can provide more accurate depth informaition rather than the one estimated by stereo vision. A CANBus control box was fabricated to deploy the radar into the system.
 
-| ![Delphi ESR]({{ site.url }}/img/portfolio/master_thesis/esr_c.jpg "Delphi ESR v9.21.21") | ![Control box]({{ site.url }}/img/portfolio/master_thesis/control_box.jpg "CANBus Control Box") | ![Control box 1]({{ site.url }}/img/portfolio/master_thesis/control_box-1.jpg "CANBus Control Box 1") |
+| <img class="lazy_load" title="Delphi ESR v9.21.21" alt="Delphi ESR v9.21.21" data-src="{{ site.url }}/img/portfolio/master_thesis/esr_c.jpg"> | <img class="lazy_load" title="CANBus Control Box" alt="CANBus Control Box" data-src="{{ site.url }}/img/portfolio/master_thesis/control_box.jpg"> | <img class="lazy_load" title="CANBus Control Box 1" alt="CANBus Control Box 1" data-src="{{ site.url }}/img/portfolio/master_thesis/control_box-1.jpg"> |
 
 The system was ameliorated to approach a better performance (see videos below). For more detail, please access to **<a href="file/MasterThesis-final.pdf" target="_blank" onclick="ga('send', 'pageview', 'file/MasterThesis-final.pdf');">my master thesis pdf</a>**.
 
-![Cart]({{ site.url }}/img/portfolio/master_thesis/cart.jpg "Cart")
+<img class="lazy_load" title="Cart" alt="Cart" data-src="{{ site.url }}/img/portfolio/master_thesis/cart.jpg">
 
 **Contributions:**
 - Constructed **object-level sensor-fusion-based** vehicle safety system capable of obstacle detection, tracking and collision avoidance algorithms by a stereo vision and a millimeter-wave radar.

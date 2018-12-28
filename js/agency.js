@@ -33,7 +33,13 @@ $('div.modal').on('show.bs.modal', function() {
 		if (!location.hash){
 			$(modal).modal('hide');
 		}
-	}
+    }
+
+    // lazy load
+    $('.lazy_load').each(function(){
+        var img = $(this);
+        img.attr('src', img.data('src'));
+    });
 });
 
 // Load front image

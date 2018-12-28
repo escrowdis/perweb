@@ -11,11 +11,12 @@ keyword: Mechanism design, SolidWorks.
 <!-- BME 2111 Mechanism (Ⅰ) -->
 The lecture Mechanism let us to create innovation thing based on unresolved problem. In Taiwan, we get used to sun-dry clothes rather than putting them into dryer. Two classmates and I designed an automatic dry clothes rack to not only make people hang clothes on without moving but also use econimize the space utility like using the top of balcony. The system is composed of a vertical rolling belt, expanable clothes hangers, and an automatic clothesline. The user only has to hang their clothes at the same place and the belt will roll them up to the clothesline. We used SolidWorks to deisgn our mechanism.
 
-| ![]({{ site.url }}/img/portfolio/lecture_mechanism/belt.jpg) | ![]({{ site.url }}/img/portfolio/lecture_mechanism/belt-1.jpg) <br> ![]({{ site.url }}/img/portfolio/lecture_mechanism/belt-2.jpg) |
+| <img class="lazy_load" title="" alt="" data-src="{{ site.url }}/img/portfolio/lecture_mechanism/belt.jpg"> | 
+<img class="lazy_load" title="" alt="" data-src="{{ site.url }}/img/portfolio/lecture_mechanism/belt-1.jpg"> <br> <img class="lazy_load" title="" alt="" data-src="{{ site.url }}/img/portfolio/lecture_mechanism/belt-2.jpg"> |
 
 <p align="center"><strong>Belt</strong></p>
 
-| ![]({{ site.url }}/img/portfolio/lecture_mechanism/hanger.jpg) | ![]({{ site.url }}/img/portfolio/lecture_mechanism/hanger-expand.jpg) |
+| <img class="lazy_load" title="" alt="" data-src="{{ site.url }}/img/portfolio/lecture_mechanism/hanger.jpg"> | <img class="lazy_load" title="" alt="" data-src="{{ site.url }}/img/portfolio/lecture_mechanism/hanger-expand.jpg"> |
 
 <p align="center"><strong>Hanger</strong></p>
 
