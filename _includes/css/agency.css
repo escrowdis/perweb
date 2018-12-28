@@ -676,8 +676,7 @@ aside.clients img {
 }
 
 section#contact {
-    /* background-color: #222; */
-    background-image: url('{{ site.baseurl }}/img/nasa_c.jpg');
+    background-color: #000000;
     background-position: center;
     background-repeat: no-repeat;
 }

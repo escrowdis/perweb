@@ -35,3 +35,9 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+
+// Load front image
+$(document).ready(function() {
+    $('header').css('background-image', 'url(img/spacex_c.jpg)');
+    $('section#contact').css('background-image', 'url(img/nasa_c.jpg)');
+});
